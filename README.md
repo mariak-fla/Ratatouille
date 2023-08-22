@@ -6,7 +6,7 @@ Welcome to Ratatouille, the ultimate online destination for savoring culinary ex
 ## 🏅 Acknowledgments
 Based on [Code Commerce's tutorial](https://www.youtube.com/watch?v=GDd2c70gsxE). Thank you!
 
-🔗 [See it live!]()
+🔗 [See it live!](https://ratratatouille.netlify.app)
 
 ## ⚙️ Tech
 
